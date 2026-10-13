@@ -32,7 +32,7 @@ I'M
 </pre>
 </div>
 
-Halo! Aku **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Teknologi Sepuluh Nopember (ITS). Saat ini aku sedang magang di **Barunastra ITS Roboboat Team** (Electrical Division). Aku memiliki minat yang besar di bidang *Autonomous Systems*, *Robotics*, *Electrical Design*, dan *Control system*. 
+Halo! saya **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Teknologi Sepuluh Nopember (ITS). Saat ini saya sedang magang di **Barunastra ITS Roboboat Team** (Electrical Division). Aku memiliki minat yang besar di bidang *Autonomous Systems*, *Robotics*, *Electrical Design*, dan *Control System*. 
 
 <div align="center">
 <pre>
@@ -70,7 +70,7 @@ Halo! Aku **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Tekno
 * **Email:** fuadbadri06@gmail.com
 * **Instagram:** @fuadbadri 
 https://www.instagram.com/fuadbadri
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-fuad-badri/
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-fuad-badri-738b98337/
 
 
 

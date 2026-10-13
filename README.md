@@ -68,8 +68,9 @@ Halo! Aku **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Tekno
 </div>
 
 * **Email:** fuadbadri06@gmail.com
-* **Instagram:** @fuadbadri instagram.com/fuadbadri
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-fuad-badri
+* **Instagram:** @fuadbadri 
+https://www.instagram.com/fuadbadri
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-fuad-badri/
 
 
 

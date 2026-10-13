@@ -67,6 +67,8 @@ Halo! saya **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Tekn
 
 ## 📫 How to Reach Me
 
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </pre>
 </div>
 

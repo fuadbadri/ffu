@@ -71,6 +71,3 @@ Halo! saya **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Tekn
 * **Instagram:** @fuadbadri 
 https://www.instagram.com/fuadbadri
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-fuad-badri-738b98337/
-
-
-

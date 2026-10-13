@@ -1,7 +1,7 @@
 # Hi There
 
 I'M
-
+```
  ___________________________________________________ 
 |                                                   |
 |   +++++++++   +++   +++    +++++++    ++++++      |
@@ -18,6 +18,7 @@ I'M
 |   +++         +++++++++   +++   +++   ++++++      |
 |                                                   |
 |___________________________________________________|
+```
 
 Highly analytical Electrical Engineering Student and have interest on Atificial Intelligence, Embedded System, 
 Autonomous System, Robotics, and Computational Science. Pose strong capability in basic C Programming Language.

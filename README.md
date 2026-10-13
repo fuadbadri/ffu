@@ -42,6 +42,10 @@ Halo! saya **Muhammad Fuad Badri**, mahasiswa S1 Teknik Elektro di Institut Tekn
 </pre>
 </div>
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+
 * **Programming Languages:** C, C++
 * **Hardware & Electronics:** Microcontrollers (ESP32, STM32, Arduino), PCB Design (KiCad)
 * **Core Fundamentals:** Mathematics, Classical Mechanics, Fundamental Physics
